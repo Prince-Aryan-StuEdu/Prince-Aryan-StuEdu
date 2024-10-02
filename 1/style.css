@@ -1,0 +1,49 @@
+body {
+    justify-content: center;
+    background-color: rgb(255, 240, 33);
+    vertical-align: middle;    
+}
+
+
+
+.Buttons {
+    height: 40px;
+    font-size: x-large;
+    transition: background-color 0.5s ease;
+}
+
+#Sub {
+    border-radius: 100px;
+    background-color: red;
+    color: white;
+    width: 130px;
+    border-width: 1px;
+    border-color: rgb(176, 0, 0);
+    border: none;
+}
+
+#Sub:hover {
+    background-color: rgb(176, 0, 0);
+}
+
+#Join {
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    width: 70px;
+    border-width: 1px ;
+    border: none;
+}
+
+#Join:hover {
+    background-color: rgb(19, 0, 193);
+}
+
+#Bell {
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+#Bell:hover {
+    background-color: rgb(195, 195, 195);
+}
